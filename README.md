@@ -1,3 +1,3 @@
 # Grid-II
 
-Secend site for Camping build with Grid.
+Second site for Camping build with Grid.
